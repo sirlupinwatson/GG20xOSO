@@ -1,0 +1,28 @@
+Donation Analysis:
+- Correlation between the number of donations and the amount donated.
+- Correlation between the number of unique donors and the amount donated.
+- Trends in donation amounts over different rounds or projects.
+
+Repository Activity Analysis:
+- Correlation between repository metrics (stars, forks, contributors) and donation amounts.
+- Activity trends over time (commit counts, pull requests, issues).
+
+Developer Activity Analysis:
+- Correlation between the number of active developers and repository activity.
+- Impact of new contributors on repository activity and donations.
+
+Visualizations:
+- Heatmaps for correlation matrices.
+- Time series plots for trends.
+- Scatter plots for relationship analysis.
+
+--------------------------------------------------                                        
+
+round_name  \
+ 0  Token Engineering QF Grants Round: Spring 2024   
+ 1                             Web3 Infrastructure   
+ 2  Token Engineering QF Grants Round: Spring 2024   
+ 3                                   dApps & Apps    
+ 4                      Hypercerts Ecosystem Round
+
+
