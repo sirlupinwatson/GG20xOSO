@@ -1,4 +1,4 @@
-# Gitcoin Grants Round 20 X OSO
+# Gitcoin GG20XOSO
 
 
 ### Graph No.1 - Top 20 Projects who received the most funding
